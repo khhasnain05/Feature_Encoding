@@ -63,3 +63,6 @@ In this method:
 * ColumnTransformer is used to apply all encodings together  
 * Code is clean and scalable  
 * Suitable for real world machine learning pipelines  
+
+## 👤 Author
+Khawaja Hasnain
