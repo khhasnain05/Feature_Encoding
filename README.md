@@ -27,6 +27,8 @@ Applied on the following nominal features:
 **Reason**  
 These features do not have any inherent order.
 
+---
+
 ### 🔢 Ordinal Encoding
 
 Applied on the Degree column using this order:
@@ -38,6 +40,8 @@ Applied on the Degree column using this order:
 
 **Reason**  
 Academic degrees follow a natural progression.
+
+---
 
 ### 🏷️ Label Encoding
 
@@ -54,7 +58,9 @@ In this method:
 
 * Each encoding technique is applied step by step  
 * Clear separation of preprocessing logic  
-* Beginner friendly and easy to understand  
+* Beginner friendly and easy to understand
+
+---
 
 ### Method 2 ColumnTransformer Based Approach
 
@@ -64,5 +70,5 @@ In this method:
 * Code is clean and scalable  
 * Suitable for real world machine learning pipelines  
 
-## 👤 Author
-Khawaja Hasnain
+## 👨‍💻 Author
+**Khawaja Hasnain**
